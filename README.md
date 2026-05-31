@@ -1,6 +1,6 @@
 # Awesome x402 — HTTP 402 Payment Protocol
 
-> A curated list of x402 implementations, services, tools, and resources.
+> A curated list of x402 implementations, services, tools, and resources. Maintained by [Rug Munch Intelligence](https://rugmunch.io) — The Bloomberg Terminal of Shitcoins.
 
 ## What is x402?
 
